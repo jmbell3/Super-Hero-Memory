@@ -52,7 +52,7 @@ h1 {
   transition: transform 0.5s; /**/
   transform-style: preserve-3d; /*shows 3d*/
   perspective: 1000px;
-  background-color: rgb(238, 238, 14); 
+  background-color: rgb(231, 231, 14); 
   border-radius: 7px;
  
 }
