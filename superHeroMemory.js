@@ -137,3 +137,4 @@ function resetBoard() {
 // Adds event listener to start a new game
 newGameButton.addEventListener('click', startGame);
 startGame(); // Start the game 
+
